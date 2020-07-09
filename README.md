@@ -6,5 +6,5 @@ If user guesses it right in less than 4 attempts we display a message showing Co
 Otherwise it just dislpays the number of attempts it took the user to guess it right.
 
 Technologies: 
- - Csharp
+ - C#
  - Visual Studio 2019
